@@ -1,3 +1,4 @@
+require 'scraperwiki'
 import scraperwiki
 import mechanize
 import re
